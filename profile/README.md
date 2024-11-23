@@ -8,7 +8,7 @@
 
 ### About
 > - Welcome to [Package Forge Dev](https://github.com/pkgforge-dev), a sub organization under [PkgForge](https://github.com/pkgforge)
-> - Here, [PkgForge](https://github.com/pkgforge)'s Developers host their own Projects, SubProjects & Other Experiments
+> - Here, [PkgForge](https://github.com/orgs/pkgforge-dev/people)'s Developers host their own Projects, SubProjects & Other Experiments
 ---
 
 ### Devs & Projects
