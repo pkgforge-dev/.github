@@ -13,7 +13,7 @@
 
 ### Devs & Projects 🎯
 - #### [@Samueru-sama](https://github.com/Samueru-sama)
-> - [Truly Portable AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages): [These AppImages](https://github.com/orgs/pkgforge-dev/repositories?q=%5BMaintainer%3D%40Samueru-sama%5D+) are Truly Portable (No Dependencies) and Work Everywhere (Any version of `MUSL` | `GLIBC`) --> https://github.com/pkgforge-dev/Anylinux-AppImages
+> - [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages): [These AppImages](https://github.com/orgs/pkgforge-dev/repositories?q=%5BMaintainer%3D%40Samueru-sama%5D+) are Truly Portable (No Dependencies) and Work Everywhere (Any version of `MUSL` | `GLIBC`) --> https://github.com/pkgforge-dev/Anylinux-AppImages
 
 ### `FAQ` 📖
 - #### Cool! How Can I participate, help & Contribute?
