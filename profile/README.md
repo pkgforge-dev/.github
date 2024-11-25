@@ -1,10 +1,11 @@
 <p align="center">
     <a href="https://github.com/pkgforge/soar">
-        <img src="https://github.com/user-attachments/assets/220ce7b3-55b3-496e-b3b8-2556123193a2" width="100"></a>
+        <img src="https://github.com/user-attachments/assets/25e88dcc-8e4e-4075-86bc-60e7b5950f9b" width="256"></a>
     <br>
     <b><strong> <a href="https://github.com/pkgforge/soar">Package Forge Dev</a></code></strong></b>
     <br>
 </p>
+
 
 ### About ℹ️
 > - Welcome to [Package Forge Dev](https://github.com/pkgforge-dev), a sub organization under [PkgForge](https://github.com/pkgforge)
