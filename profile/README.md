@@ -26,7 +26,7 @@
 > > > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif?tmp.DrVeBeEab1=tmp.M9DRZi1Ulh" alt="soar-list"></a><br>
 > > - [SoarPkgs](https://github.com/pkgforge/soarpkgs): Official ([`pkgforge-community`](https://docs.pkgforge.dev/repositories/pkgforge-community)) Repo ⚙️ containing Soar Build ([`.SBUILD`](https://docs.pkgforge.dev/sbuild/specification)) 📦📀 Recipes to Build, Install & Integrate Everything
 > > - [Toolpacks](https://github.com/Azathothas/Toolpacks): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📦 & The Largest Collection of Pre-Compiled (+ UPXed) `*Unix` Static Binaries
-> > - [PkgCache](https://github.com/pkgforge/pkgcache): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage]
+> > - [PkgCache](https://github.com/pkgforge/pkgcache): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage](https://docs.pkgforge.dev/formats/packages)
 > > - [BinCache](https://github.com/pkgforge/bincache): Official ([`pkgforge-stable`](https://docs.pkgforge.dev/repositories/pkgforge-stable)) Repo 📀, [Importing & SnapShotting](https://github.com/Azathothas/Toolpacks-BinCache-Importer) [Toolpacks](https://huggingface.co/datasets/pkgforge/bincache) & [PkgCache](https://huggingface.co/datasets/pkgforge/pkgcache) Periodically.
 > - Join the [Discussion at Telegram](https://t.me/official_loonix/63949): https://t.me/official_loonix/63949
 
