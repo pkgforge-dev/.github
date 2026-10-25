@@ -1,9 +1,8 @@
 <p align="center">
-    <a href="https://github.com/pkgforge-dev/Anylinux-AppImages">
-        <img src="https://github.com/user-attachments/assets/25e88dcc-8e4e-4075-86bc-60e7b5950f9b" width="256">
-    </a>
-    <br>
-    <b><a href="https://github.com/pkgforge-dev">Package Forge Dev</a></b>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pkgforge-dev/.github/main/assets/pkgforge-dev-lockup-dark.svg">
+        <img src="https://raw.githubusercontent.com/pkgforge-dev/.github/main/assets/pkgforge-dev-lockup-light.svg" alt="pkgforge-dev" width="486">
+    </picture>
 </p>
 
 ---
